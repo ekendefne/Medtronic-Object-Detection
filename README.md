@@ -23,9 +23,13 @@ Please make sure the path to your yolov5.py path will be "C:/medtro/yolov5.py"
 
 ## Project Breakdown:
 -Yolov5.cpp: C++ code of the YOLO model taken from YOLOv5 github
+
 -Yolov5.py: python code of YOLO model taken from YOLOv5 github
+
 -YOLO5n_vs_YOLO5m.py code developed to compare YOLOv5n adn YOLOV5m models for the 20 images in the 'data' folder. 
+
 -C_vs_Python.py: code developed to compare python and C++ models for the 20 images in the 'data' folder. (both are using YOLOv5s)
+
 -conf_mat.py :code developed to produce confusion matrix,precision and recall. Results have not been found to be reliable.
 
 Note: The C++ codes are ran using the 'CMakeLists.txt' file please modify the 10th line according to the C++ code you would like to run.
