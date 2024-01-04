@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20231229-0950-Experimental"
+	Name="Owner"
+	Generator="ctest-3.28.1"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx86/x64/cl.exe"
+	CompilerVersion="19.38.33133.0"
+	OSName="Windows"
+	Hostname="Owner"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="20"
+	NumberOfPhysicalCPU="14"
+	TotalVirtualMemory="21129"
+	TotalPhysicalMemory="16068"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2687"
+	>
+	<Testing>
+		<StartDateTime>Dec 29 20:10 Turkey Standard Time</StartDateTime>
+		<StartTestTime>1703869804</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 29 20:10 Turkey Standard Time</EndDateTime>
+		<EndTestTime>1703869804</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

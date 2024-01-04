@@ -1,0 +1,9 @@
+python => 3.8 
+opencv-python
+numpy
+pathlib
+matplotlib.pyplot
+warnings
+pybboxes 
+seaborn 
+#dirent.h #for Linux users only

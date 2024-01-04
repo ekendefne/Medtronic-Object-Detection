@@ -1,0 +1,10 @@
+^C:\MEDTRO\CMAKELISTS.TXT
+setlocal
+C:\CMake\bin\cmake.exe -SC:/medtro -BC:/medtro/build --check-stamp-file C:/medtro/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
